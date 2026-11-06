@@ -1,4 +1,4 @@
-# 📦 DRAKON BOT - Libraries
+# 📦 Peru Bot  - Libraries
 
 ## الاستخدام في index.js
 
